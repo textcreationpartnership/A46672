@@ -1,0 +1,1055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jonas Redux, or, A divine warning-piece shot from the fort-royal of Ninive to all cities, countreys, kingdoms and empires to exhort them to be careful how they do admit of the dominion of sin within their respective territories, lest they fall into the like danger / Jonas Anglicus.</title>
+            <author>Janson, Henry, Sir, 1616 or 17-ca. 1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46672</idno>
+            <idno type="STC">Wing J481</idno>
+            <idno type="STC">ESTC R30367</idno>
+            <idno type="EEBO-CITATION">11303584</idno>
+            <idno type="OCLC">ocm 11303584</idno>
+            <idno type="VID">47368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1464:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jonas Redux, or, A divine warning-piece shot from the fort-royal of Ninive to all cities, countreys, kingdoms and empires to exhort them to be careful how they do admit of the dominion of sin within their respective territories, lest they fall into the like danger / Jonas Anglicus.</title>
+                  <author>Janson, Henry, Sir, 1616 or 17-ca. 1684.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXII [1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Latin and English on opposing pages.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47368:1"/>
+            <pb facs="tcp:47368:1" rendition="simple:additions"/>
+            <p>
+               <hi>JONAS REDUX,</hi> OR A Divine WARNING-PIECE Shot from the <hi>FORT-ROYAL</hi> of NINIVE, TO ALL <hi>Cities, Countreys, Kingdoms,</hi> and <hi>Empires,</hi> to Exhort them to be careful how they do Admit of the Dominion of <hi>SIN,</hi> within their Reſpective Territories, leſt they fall into the like danger.</p>
+            <p>BY <hi>JONAS ANGLICUS.</hi>
+            </p>
+            <q>
+               <bibl>St. Paul.</bibl>
+               <p>Qui ſtat, videat ne cadat.</p>
+            </q>
+            <q>
+               <bibl>Horat.</bibl>
+               <p>Mutato nomine, de te—</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Brome,</hi> at the Gun at the Weſt End of St. <hi>Pauls.</hi> MDCLXXII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:47368:2"/>
+            <pb facs="tcp:47368:2"/>
+            <head>To the Honourable Sir Joſeph Sheldon Knight, ALDERMAN, And in near Election to the Majoralty of the moſt Honourable City of <hi>LONDON,</hi> and the whole Honourable Company of <hi>DRAPERS.</hi>
+            </head>
+            <opener>
+               <salute>Moſt honour'd Sir,</salute>
+            </opener>
+            <p>THe many ſignal Obligations, that I have from my childhood receiv'd, from your moſt Reverend and Honourable <g ref="char:V">Ʋ</g>ncle, his Grace my Lord Archbiſhop of <hi>Canterbury,</hi> have very much encouraged me; but the great fame of your growing Virtues, hath emboldned me (eſpecially having the honour to be a Draper by deſcent) to addreſs my <hi>Jonas</hi> to you: who as he wants little of my Anagram, ſo I am ſure hath been the fore-runner of my For<g ref="char:EOLhyphen"/>tunes: In this only I have by Divine Permiſſion exceeded him, that for his three days, I have lain thirty years perfectly in a Whales belly; but I ſtill truſt in our moſt good and gracious God, that as he did him, ſo he will bring me, to a happy ſhore, either in this world, or a better. In the mean time, I hope, this glorious City, which hath receiv'd ſo many fatherly chaſtiſements from the Di<g ref="char:EOLhyphen"/>vine hand, by Sword, Plague, and Fire, will by your noble Pre<g ref="char:EOLhyphen"/>cept, and Example, take a fair warning, to ſin no more, leaſt a worſe thing come upon them. I cannot but hope likewiſe, my hearty humble ſervice, will prove no leſs acceptable to this moſt famous City, of which you are ſo near the Supreme Government, under the Kings Majeſty, whom God long preſerve in a moſt proſperous Reign, for his own glory, the good of this moſt Honourable City, and the comfort of all us, his poor Subjects, and moſt particularly of</p>
+            <closer>
+               <signed>Moſt honoured Sir, Your moſt obedient, and Affectionate Humble Servant, <hi>Jonas Anglicus.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="ita" type="poem">
+            <pb n="4" facs="tcp:47368:3"/>
+            <head>CARMEN Heroicum de Propheta <hi>JONA</hi> à Balaena deglutito, &amp; <hi>Ninivitarum</hi> ad DEUM Converſione.</head>
+            <lg>
+               <l>UT latuit <hi>Jonas</hi> Triduum ſub pectore Ceti,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Deus Populo faſſo peccata popercit,</l>
+               <l>Dicere fort Animus. Tu per quem ſcilicet unum</l>
+               <l>Omnibus Omnipotens parcit, ſic Chriſte guberna</l>
+               <l>Os calamam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> meum, ne quis mihi verſus inanis</l>
+               <l>Excidat Incanto qui, non tua Numina cantet:</l>
+               <l>Nam ſine te non eſt, poſſim quod ſcribere quicquam,</l>
+               <l>Tu mihi Principium, &amp; Medium, Tu Finis adeſto.</l>
+            </lg>
+            <lg>
+               <l>
+                  <g ref="char:V">Ʋ</g>rbs Antiqua fuit, paene alto vertice tangens</l>
+               <l>Sydera, Dives opum, gleba<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> uberrima pingui:</l>
+               <l>Aſsyrii coluere viri, quam Fama Minores</l>
+               <l>Concelebraſſe tulit Nini cum nomine Regis;</l>
+               <l>Hanc rapidus Tigris foelicibus irrigat undis,</l>
+               <l>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> beat largo pleniſſima Copia Cornu,</l>
+               <l>Nil<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> deeſt penitus, rerum quod poſtulat uſus.</l>
+               <l>Hen quàm difficile eſt, ſortem benè ferre ſecundam!</l>
+               <l>Quam virtus &amp; opes non ſede morantur in una!</l>
+               <l>Dum nihil ergo deeſt <g ref="char:V">Ʋ</g>rbi, dum Rebus abundat</l>
+               <l>Omnibus, in Tenebras ruit, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> oblita Jehovae</l>
+               <l>Qui Deus eſt unus, veruſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, Nefanda Deorum</l>
+               <l>Numina Fictorum vano veneratur Honore:</l>
+               <l>Cumq, ſit id primum Crimen, Liquiſſe Jehovam,</l>
+               <l>Crimina ſponte ſua, mox caetera cuncta ſequuntur,</l>
+               <l>Virtureſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fugant miſeris ex Maenibus Almas.</l>
+               <l>Hae coelum querulae repetunt, urbem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> relinquunt,</l>
+               <l>Caeca<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> deplorant humanae pectora Gentis,</l>
+               <l>Quae fidens opibus, virtutum Redditur Hoſtis,</l>
+               <pb n="6" facs="tcp:47368:4"/>
+               <l>Veri oblita Dei, peccatiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> oblita foedis.</l>
+               <l>At Deus aeterni reſidens ſuper Aurea Coeli</l>
+               <l>Templa, ſuas cernens Natas ex urbe repulſas;</l>
+               <l>Protinus horribiles fremuit commotus in iras,</l>
+               <l>Et vix abſtinuit, terras quin funditus omnes</l>
+               <l>Perderet illius Regionis, &amp; igne cremaret,</l>
+               <l>Ni miſeratus eas clementi corde fuiſſet:</l>
+               <l>Quod ſemper ſuperat peccantis crimina mundi.</l>
+               <l>Ergo vocat Jonam, Vatem quem mittat in <g ref="char:V">Ʋ</g>rbem,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t Populis paenam meritam denunciet, ac ſi</l>
+               <l>Eſſe Mali pergent, perituros ſulphure cunctos,</l>
+               <l>Dum lux Dena quater rutilo fulgeret Olympo.</l>
+               <l>Ille ſtupens, dubitanſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, Deo parere reouſat,</l>
+               <l>Ambiguum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> animum, nunc buc nunc dividit illuc.</l>
+               <l>Heu quid agam? reputat ſecum; qua voce furentes</l>
+               <l>Compellem populos? quodſi compello, Pericla</l>
+               <l>Mille parata mihi, me gens effraena necabit;</l>
+               <l>Sin aliqui forſan reſipiſcent, hoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> miſertus</l>
+               <l>Largus ut eſt veniae, Deus band extinxerit omnes,</l>
+               <l>Me Plebs deludet, Mendacem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Improba finget.</l>
+               <l>Quin potius quo Fata trahant, retrahant<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, repente</l>
+               <l>Profugio; Incautus ſubeam quàm tanta pericla.</l>
+               <l>Dixit: &amp; Antiquam trepidus feſtinat Ioppen,</l>
+               <l>Conſcendit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Ratem: Cilicum ſubiturus in Oras:</l>
+               <l>Vix è conſpectu ſolidae Telluris, in Altum</l>
+               <l>Venerat, &amp; Nantae ſpumas Maris aere ruebant,</l>
+               <l>Cum Deus obſervans illum, ſtat vertice Coeli,</l>
+               <l>Ah Miſer, anne putas, inquit, te, evadere noſtras</l>
+               <l>Poſſe manus? Homines ſequeris? mea juſſa recuſas?</l>
+               <pb n="8" facs="tcp:47368:5"/>
+               <l>Dum fugis heu Scyllam, tibi mors erit ecce Charybdis.</l>
+               <l>Talia dum tacito ſecum Deus ore volutat,</l>
+               <l>Terribiles ventos, Tempeſtateſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſonoras</l>
+               <l>Convocat, &amp; ſubito Tonitru coelum excitat omne.</l>
+               <l>Luctantur Zephyruſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Auſter<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; vectus Eois</l>
+               <l>Eurus equis, mugit Pelagus, micat ignibus aether</l>
+               <l>Conſcius, involvit Tenebris pluviae Oceanum nox,</l>
+               <l>Praeſentum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> necem ante oculos ſibi quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> videbat;</l>
+               <l>Cuncta vel in ſolo coeunt elementa profundo</l>
+               <l>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Chaos certum, mox omnia juncta minantur.</l>
+               <l>Horrent Attoniti, palmaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad ſydera tendunt,</l>
+               <l>Continuo Nautis gelidus pavor occupat Artus,</l>
+               <l>Navis &amp; ut levior fiat, tum plurima vaſa</l>
+               <l>Ejiciunt, laxant<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> foros, nihilominùs undis</l>
+               <l>Turbida ceſſat Hyems, iterum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> iterum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> relucent</l>
+               <l>Fulgura Fulminibus commixta, nec amplius ullae</l>
+               <l>Aut Terrae apparent, aut Coelum, aut Pontus, &amp; Aer.</l>
+               <l>Ambigui vaſto jactantur gurgite paſſim,</l>
+               <l>Incerti quo Fata ferant; ubi nulla ſalutis</l>
+               <l>Spes aderat, tandem decernunt mittere ſortem,</l>
+               <l>Tantorum exipſis, ſi quis ſit cauſa Malorum.</l>
+               <l>Ecce autem dum ſic ductis ſtat ſortibus urna,</l>
+               <l>Sors Jonam tangit; culpam mox ille fatetur,</l>
+               <l>Sum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ait Hebraeus, propter me talia fiunt,</l>
+               <pb n="10" facs="tcp:47368:6"/>
+               <l>Me propter qui nempe Dei mandata recuſo,</l>
+               <l>Cui Mare, cui Tellus, cui oeli ſydera parent:</l>
+               <l>Projicite in fluctum, &amp; Pelago me immergite vaſto,</l>
+               <l>Ceſſabit Pelagus, maris ira tumor<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quieſcent.</l>
+               <l>Mirantur Nautae, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſtupent, paulum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> morantur,</l>
+               <l>An ſine morte viri, fortaſſe quieſcere fluctus</l>
+               <l>Inciperent, ſed nulla quies, mora nulla frementis</l>
+               <l>Eſt ſalis; ergo, ſuos Divos tamen ante precati,</l>
+               <l>In mare praecipitem puppi (miſerabile) ab alta</l>
+               <l>Deturbant. Natat ecce miſer, fluctuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſileſcunt</l>
+               <l>Continuo, &amp; placidi ſubſternunt aequora venti.</l>
+               <l>At Pater AEthereus facit ut Balaena propinquet,</l>
+               <l>Ejectum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> virum Pelago<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> patente Natantem</l>
+               <l>Excipiat veniens, ventriſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> voragine condat.</l>
+               <l>Tum vero Jonam vere circumſtetit borror,</l>
+               <l>Obſtupet, ac planè quaſi mortuus, abditus Alvo</l>
+               <l>Balaenae ingemit; ut tandem vix reddita mens eſt,</l>
+               <l>Sic corde ingeminat, ventri<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> immurmurat imo:</l>
+               <l>Summe Deus, qui cuncta creas, ſervaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> creata,</l>
+               <l>En Miſer hic jacco, velut atra per Antra ſepulchri</l>
+               <l>Conditus, in medio preſentis limine mortis.</l>
+               <l>Quae mihi ſpes ſupereſt ullius certa ſalutis?</l>
+               <l>Sed tamen una ſalus à te ſperare ſalutem.</l>
+               <l>Tu miſerere bonus miſeri peccata fatentis</l>
+               <l>Nec precon irato damnatum projice vultu:</l>
+               <l>Eripe ſed diro è Piſcis ventre, &amp; deme ab undis,</l>
+               <l>Salvus ut ex illis iterum tua Templa reviſam:</l>
+               <l>Tum prius hic Cetus, ſicca tellure natabit,</l>
+               <l>Quam tua tanta meo labentur pectore facta.</l>
+               <l>Annuit his votis Deus; exaudit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vocantem,</l>
+               <l>Et cum Lux roſea jam tertia luce rediret,</l>
+               <pb n="12" facs="tcp:47368:7"/>
+               <l>Hunc Balaena Dei juſſu, in ſolidam evomit oram.</l>
+               <l>Vera loquor nec ficta fides, Gens Ethnica quanquam</l>
+               <l>Rideat haec, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hinc extet quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fabula mendax,</l>
+               <l>Sit quondam ut vectus tergo Delphinis Arion.</l>
+               <l>Nam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hominum ratio, quae non capit, omnia ridet,</l>
+               <l>Et non vera putat, ſed pagina ſacra legenti;</l>
+               <l>Eſſe ea quae dixi vera ac certiſſima, monſtrat;</l>
+               <l>Quandoquidem Chriſti Typus haec &amp; Imago fuerunt:</l>
+               <l>Nam veluti triduum Ceti ille in ventre latebat,</l>
+               <l>Funera ſic Chriſtus paſſus, Tumulo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quieſcens,</l>
+               <l>Tertia Lux poſtquam rediit, redivivus in Auras</l>
+               <l>Ipſe ſimul rediit, de victo victor Averno,</l>
+               <l>Sed reſpiravit poſtquam, vireſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> recepit</l>
+               <l>Raptus Amithaides immenſae è fluctibus undae,</l>
+               <l>Summus eum ad populum rurſus jubet ire Jehovah;</l>
+               <l>Totius Interitum errantis nunciet <g ref="char:V">Ʋ</g>rbis;</l>
+               <l>Juſſa facit laetus, primi memor ille pericli.</l>
+               <l>O Miſeri, exclamat, gens ô demerſa nefandis</l>
+               <l>Criminibus, gens exitio Vicina futuro,</l>
+               <l>Audite, &amp; memori mea dicta recondite mente:</l>
+               <l>Horrendos Auſus veſtros at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Impia facta</l>
+               <l>Conſpexit Deus, ille Deus, qui crimina ſemper</l>
+               <l>Pectore cuncta notat memori, paeniſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> rependit</l>
+               <l>Vindicibus, ſi non praeſentibus, attamen olim</l>
+               <l>Aeternis, quae ſunt vobis ſine fine paratae.</l>
+               <l>Ille igitur veſtra ob peceata exarſit in iras</l>
+               <l>Tantas, ut cum jam decies lux quarta reſurget,</l>
+               <l>Perdere cuncta velit, quae tota urbs continet, igni.</l>
+               <l>Haec ubi dicta dedit vates, Timor anxius omnes</l>
+               <l>Cepit, &amp; auditis Verbis tam triſtibus, <g ref="char:V">Ʋ</g>rbem</l>
+               <pb n="14" facs="tcp:47368:8"/>
+               <l>Horrida continuò per totam fama vagatur,</l>
+               <l>Adveniſſe diem fatis quo cuncta perirent.</l>
+               <l>Omnia Maeſtitiá querulâ, miſero<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tumultu</l>
+               <l>Implentur, penituſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> omnes plangoribus aedes</l>
+               <l>Luctificis ululant? Coeli ferit ardua Fletur.</l>
+               <l>Rex ipſe, invitas Rumor cum venit ad Aures,</l>
+               <l>Deſcendit Solio Regali, &amp; veſte Ciliſſa</l>
+               <l>Indutus, Capitis cineres in Vertice ſpargit,</l>
+               <l>Ac toti populo jejunia mandat, ut omnes</l>
+               <l>Suppliciter triſtes, Sacci velamine cincti,</l>
+               <l>Numina tanta, Deitanti, decorde precentur,</l>
+               <l>Inſtanteſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> minas iraſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> avertere tentent.</l>
+               <l>Audiit Omnipotens voces, gemituſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vocantum,</l>
+               <l>Praebuit ac veniam votis, iraſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> remiſit.</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t Mandata Dei Jonas peragenda peregit,</l>
+               <l>Maenibus egreſſus miſeris proeul urbe reſedit,</l>
+               <l>Et ſibi quae ſolem arcerent umbracla paravit,</l>
+               <l>Sub quibus expectans tandem ſpectare volebat</l>
+               <l>Quid fieret, cui dira Deus decreverat, <g ref="char:V">Ʋ</g>rhi.</l>
+               <l>Aſt ubi quae fuerat merita urbs Infanda malorum</l>
+               <l>Paenituiſſe Deum ſentit, paenaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> remiſſas,</l>
+               <l>Indolet, &amp; plorans luctu cor torquet inani;</l>
+               <l>Vel quia jure putat plecti debere Sceleſtos,</l>
+               <l>Vel quia, ne mendax habeatur forte, veretur.</l>
+               <l>Ergo mori mavult, tali quam vivere pacto.</l>
+               <l>Tempora purpurei finem jam veris habebant,</l>
+               <l>Et vehemens aeſtu donis Cerealibus aeſtas</l>
+               <l>Gaudebat; calidoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> urebat Syrius agros,</l>
+               <l>Per<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> agros una Jonam, qui frigora captans</l>
+               <pb n="16" facs="tcp:47368:9"/>
+               <l>
+                  <g ref="char:V">Ʋ</g>mbrarum, reperire nequit: cum Coelitus aeſtum</l>
+               <l>Huic fugat Omnipotens, hederam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> repente virentem</l>
+               <l>Procreat: haec ſerpens toti ſua brachia Jonae</l>
+               <l>Circum laxa dedit, ſummaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſecuta per Auras</l>
+               <l>Edidit umbriferum quo delitet ille Cubiclum.</l>
+               <l>Hinc ſubeunt pectus Jonae nova gaudia laeti.</l>
+               <l>Sed quam parva nimis, quam parvo tempore durant</l>
+               <l>Gaudia? dum fruticem ſemper putat ille futurum,</l>
+               <l>Ecce volente Deo, cum jam nox altera adeſſet,</l>
+               <l>Vermis adeſt, hederamq, arrodit iniqua comantem.</l>
+               <l>Illa cadit, penituſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aret; tum Gaudia Jonae</l>
+               <l>Diffugiunt, iterum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> novas mox ardet in iras.</l>
+               <l>Id Deus aſpiciens, horum ceu conſcius Author,</l>
+               <l>Num tibi, Amithaide, tantos, ait, herba dolores</l>
+               <l>Arida facta parit, quam nox dedit una vigentem,</l>
+               <l>Altera languentem ſubito exareſcere vidit?</l>
+               <l>Cur ego non parcam buic urbi, quae Maenibus amplis</l>
+               <l>Terrigenas tot habet, quot hand vix gramina campis,</l>
+               <l>Qui cuncti ignorant curvum diſcernere recto?</l>
+               <l>Non ego prava probo, vehemens ſed turpia plecto.</l>
+               <l>At qui me veniam votis ex Corde precantur</l>
+               <l>Supplicibus, faciles illis placidiſſimus Aures</l>
+               <l>Praebeo, nec culpae memini, paenaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> remitto.</l>
+               <l>O &amp; Londinum ſis Ninivaea Secunda</l>
+               <l>Ter faelix Niobe, Lachrymis vel Nobile Saxum.</l>
+               <l>Dixit, &amp; ut dixit populo fecit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> priori,</l>
+               <l>Sic nobis etiam dicit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> facit<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> benignus.</l>
+               <pb n="18" facs="tcp:47368:10"/>
+               <l>Illum ergo, ex animo, meeum, ſic quilibet oret:</l>
+               <l>Omnipotens, Aeterue Deus, qui cunctà creaſti,</l>
+               <l>Nos quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, cen vitiis <g ref="char:V">Ʋ</g>rbs haeo immerſa nefandis,</l>
+               <l>Crimina Criminibus ſemper cumulando meremur</l>
+               <l>Nil niſi perpetuas iras Phlegetontis, &amp; ignes</l>
+               <l>AEternos. Quis enim coeleſtia Numina curat?</l>
+               <l>Quis ſyncera colit divini dogmata verbi?</l>
+               <l>Vana Superſtitio, Frandes, ſcelerata Libido,</l>
+               <l>Turpis Avarities, cum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Ambitione Tyrannis</l>
+               <l>Conſtituêre ſibi Regnum, virtute repulsâ,</l>
+               <l>Quae miſere é Terrae fugit procul omnibus oris;</l>
+               <l>Heu fugit proeul illa accuſatura ſceleſti</l>
+               <l>Indigenas caecos mundi. Refipiſcite, clamat,</l>
+               <l>O Miſeri, reſipiſce animis O &amp; Anglia caecis,</l>
+               <l>At tu, ſumme Deus, qui nil niſi parcere noſti,</l>
+               <l>Ac niſi corde rogent veniam, tunc perdere tandem;</l>
+               <l>Nos quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> qui veniam te ſupplice voce rogamus,</l>
+               <l>Reſfice placatis oculis, paenaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> remitte,</l>
+               <l>Quas meriti fuimus, tum quaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> meremur in horas:</l>
+               <l>Vincere da Satanam, propriam da vincere carmem,</l>
+               <l>Noſtra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mitte tuum ſanctum in praecordia Flatum,</l>
+               <l>Qui Peccaturos moneat, moveat<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pigrorum</l>
+               <l>Longuentes animos, dum quae Meliora decebat</l>
+               <l>Non faciunt ſtolidi, ſed Deteriora ſequnntur.</l>
+               <l>Sic Tua, ſic Nati ſic ſancti Numina Flatus,</l>
+               <l>Non intermiſſis celebrabunt Landibus omnes.</l>
+            </lg>
+            <closer>Laus Chriſto Trino &amp; Uni Deo.</closer>
+         </div>
+         <div xml:lang="eng" type="poem">
+            <pb n="5" facs="tcp:47368:3"/>
+            <head>A Heroick POEM upon the Prophet <hi>JONAS,</hi> who was Swallowed by a Whale, and the Converſion of the <hi>NINIVITES</hi> to GOD.</head>
+            <lg>
+               <l>HOW <hi>Jonas</hi> lay three days within a Whale,</l>
+               <l>By God committed to that moving Jayle,</l>
+               <l>And how confeſſing <hi>Ninive</hi> God ſpar'd,</l>
+               <l>My hand is ready, and my Pen prepar'd.</l>
+               <l>Thou bleſſed Saviour, by whoſe bloud alone</l>
+               <l>The world is ſpar'd from like Deſtruction,</l>
+               <l>So rule my heart, and hand, that not a word</l>
+               <l>May fall, but what thy glory may afford:</l>
+               <l>For without thee I can to nothing tend,</l>
+               <l>Be my beginning, middle, and my end.</l>
+            </lg>
+            <lg>
+               <l>An Ancient City ſtood, with lofty Towers,</l>
+               <l>Touching the Stars, and rich in Fruits, and Flowers;</l>
+               <l>Held by <hi>Aſſyrians,</hi> and late Poets ſing</l>
+               <l>Was ſo call'd <hi>Ninive,</hi> from <hi>Ninus</hi> King:</l>
+               <l>This ſtately <hi>Tygris</hi> waters all about,</l>
+               <l>Bleſt with a Horn of Plenty all throughout;</l>
+               <l>There nothing wanted that did need require,</l>
+               <l>Or that the heart of Man could well deſire.</l>
+               <l>How hard a thing it is to bear ſuch hap!</l>
+               <l>Virtue and Wealth ſit ſeldom in one lap.</l>
+               <l>Whilſt <hi>Ninivites</hi> with all things thus abound,</l>
+               <l>Reeling in darkneſs, and the world went round,</l>
+               <l>Forgetting God, who is the only True,</l>
+               <l>And giving Idols, what's his only due:</l>
+               <l>So leaving God, which is the greateſt ſin,</l>
+               <l>All villany beſides doth ſtreight creep in.</l>
+               <l>All vertues chas'd out of their City walls,</l>
+               <l>Carry complaints to Heaven of their foul falls;</l>
+               <l>Bewailing ſo the madneſs of Mankind,</l>
+               <l>Quick-ſighted to all Vice, to Virtue blind:</l>
+               <pb n="7" facs="tcp:47368:4"/>
+               <l>Forgetting God, and all beſmear'd with evil</l>
+               <l>Give themſelves up to th' Clutches of the Devil.</l>
+               <l>But God above ſitting 'ith' higheſt Throne</l>
+               <l>Of's Temples there, hearing his Daughters moan;</l>
+               <l>Was ſtreight provok'd to a moſt grievous wrath,</l>
+               <l>And ſcarce abſtain'd from thund'ring Ruin forth</l>
+               <l>'Gainſt all the Neighb'ring parts, and burnt with Fire</l>
+               <l>But that his mercy mollifi'd his Ire:</l>
+               <l>As that is always greater than the world,</l>
+               <l>Though into Millions more Tranſgreſſions hurl'd;</l>
+               <l>Therefore he calls good <hi>Jonas,</hi> him to ſend,</l>
+               <l>And bid them all their manners for to mend,</l>
+               <l>Or to denounce this Doom, if they go on</l>
+               <l>They ſhould be all in Conflagration gon.</l>
+               <l>Fire and Brimſtone ſhould be ſent from Heaven,</l>
+               <l>Ere' the Suns courſe was finiſht ſix times ſeven.</l>
+               <l>Th' Amaz'd and doubting Prophet doth refuſe,</l>
+               <l>So daring Gods own dictate to abuſe.</l>
+               <l>But he's recall'd again, and changeth mind</l>
+               <l>So oft as Sails are alter'd by the wind.</l>
+               <l>What ſhall I do? ſo he begins his moan,</l>
+               <l>But ſtraight his voice was ſtrangled with a groan.</l>
+               <l>Yet he proceeds, How ſhall I dare come near</l>
+               <l>A people without grace, or wit, or fear?</l>
+               <l>If I go on, thoſe Villains are ſo rude</l>
+               <l>I ſhall be murther'd by the multitude;</l>
+               <l>But if they ſhall repent, and pardon merit,</l>
+               <l>As God's moſt gracious, and forgiving Spirit;</l>
+               <l>Or ſhall not execute his Fury full,</l>
+               <l>Then will they ſcoff, and kill me for a Gull.</l>
+               <l>No, I will rather go in ſpite of Fate,</l>
+               <l>Into the Sea, than to that City Gate.</l>
+               <l>So ſaid, he haſtens to th' Seas neareſt Dore,</l>
+               <l>And mounts a Ship, bound for <hi>Cilician</hi> ſhore:</l>
+               <l>Scarce was he got clear out of ſight of Land,</l>
+               <l>And Mariners did to their office ſtand,</l>
+               <l>But the All-ſeeing God obſerving this,</l>
+               <l>From Heavens heighth, as all things done amiſs.</l>
+               <l>Ah witleſs wretch d' ye think ye ever can</l>
+               <l>Eſcape my hands, by a Retreat to Man?</l>
+               <pb n="9" facs="tcp:47368:5"/>
+               <l>Oppoſing ſo my Preccepts, <hi>Scylla</hi> fly</l>
+               <l>And fall upon <hi>Charybdis,</hi> and ſo dy?</l>
+               <l>This whilſt th' Almighty ponder'd in his mind,</l>
+               <l>The Seas were rais'd with a Tempeſtuous wind,</l>
+               <l>Which God did call to make the Prophet quake,</l>
+               <l>Whilſt with that ſtorm the very earth did ſhake.</l>
+               <l>The Air and Water meets, yet you'ld think under,</l>
+               <l>Was th' only Seat, and Region of Thunder.</l>
+               <l>There Weſt and South are at a furious ſtrife,</l>
+               <l>Which ſhall be ſooneſt Maſter of his life:</l>
+               <l>Nay <hi>Eurus</hi> with his Oriental Steeds,</l>
+               <l>Doth puff and blow, whilſt the poor Seaman bleeds:</l>
+               <l>The bellowing waves do give a diſmal note.</l>
+               <l>Like <hi>Io</hi> with her metamorphos'd throat.</l>
+               <l>The knowing sky was with its Lightning light,</l>
+               <l>Whilſt guilty Seas were all involv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in night.</l>
+               <l>There death's preſented to each mortal eye,</l>
+               <l>Which they look on, and pray, but cannot fly.</l>
+               <l>Nay, what the diſmall'ſt horror repreſents,</l>
+               <l>There's ſad confuſion of all Elements,</l>
+               <l>And a moſt certain Chaos doth appear,</l>
+               <l>Fire, Earth and Air, dwell all with Water there.</l>
+               <l>Now you muſt think though hot at work, cold Fear</l>
+               <l>Poſſeſt each limb, and Artery that was there.</l>
+               <l>Yet that their Ship more lightly paſs thoſe waves,</l>
+               <l>They throw their wealth into thoſe wat'ry graves:</l>
+               <l>But Seas not ſated with that Sacrifice,</l>
+               <l>Swell higher yet, nay higher, higher riſe.</l>
+               <l>Now Thunder mixt with Lightning, doth conſpire</l>
+               <l>To make Earth look like Air, and Sea like Fire.</l>
+               <l>So were they toſs'd in that outragious Gulf,</l>
+               <l>That all abord thought they held th' ears of a Wolf.</l>
+               <l>Thus turmoild with th' uncertainty of Fate,</l>
+               <l>No hopes appear the Tempeſt ſhould abate;</l>
+               <l>So they determine to be try'd by Lot</l>
+               <l>Who are the truly Innocent, who not.</l>
+               <l>The Lots being caſt, <hi>Jonas</hi> is found the man</l>
+               <l>In Gods disfavour, deny't if he can:</l>
+               <l>No, he confeſſeth fairly, I'me a Jew,</l>
+               <l>And for my ſake great God doth thus purſue:</l>
+               <pb n="11" facs="tcp:47368:6"/>
+               <l>'Tis for my ſake, who lately diſobey'd</l>
+               <l>Him who has always Earth, Seas, and Heavens ſway'd:</l>
+               <l>Caſt me into theſe waves, and ſtreight the Main</l>
+               <l>Will be appeas'd, and you at reſt again.</l>
+               <l>The Mariners amazed ſtand and ſtay,</l>
+               <l>Hoping the ſtorm may ceaſe another way;</l>
+               <l>And ſo to ſave the man, but yet no peace,</l>
+               <l>Nor fury of the angry billows ceaſe.</l>
+               <l>Then having each one pray'd unto his God</l>
+               <l>That he'd abate the ſharpneſs of his rod,</l>
+               <l>They throw poor <hi>Jonas</hi> or'e the higheſt Bord</l>
+               <l>To ſee if's death their ſafety would afford:</l>
+               <l>There the wretch ſwims, and ſtorms are ſtraitway ſaid,</l>
+               <l>As if the Sea had made the winds afraid.</l>
+               <l>But the great God of Heaven caus'd a Whale</l>
+               <l>To come and take him into's living Jayl.</l>
+               <l>The horror that then ſeis'd poor <hi>Jonas</hi> heart,</l>
+               <l>Is not to be expreſt in any part;</l>
+               <l>And buryed thus alive, he doth complain,</l>
+               <l>Though yet he's ſcarce come to himſelf again;</l>
+               <l>His heart doth humbly yet to God addreſs,</l>
+               <l>I'th' bottom of that ſwimming Wilderneſs.</l>
+               <l>Almighty God who haſt created all,</l>
+               <l>And keep'ſt all things created leaſt they fall,</l>
+               <l>Behold me miſerable Sinner here</l>
+               <l>As buri'd in a living Sepulchre;</l>
+               <l>So in the middle plac'd of preſent death,</l>
+               <l>What hopes have I of any future breath?</l>
+               <l>But now my hopes are thou wilt ſafety bring,</l>
+               <l>When I've no hopes in any mortal thing.</l>
+               <l>Be merciful to him that doth confeſs,</l>
+               <l>Caſt not thy Servant into wretchedneſs;</l>
+               <l>Let not this fiſhes belly and the waves</l>
+               <l>Be turn'd into my Dungeon, or my Graves.</l>
+               <l>Deliver me, O Lord, from this dark Den,</l>
+               <l>That I may ſee thy Temples among'ſt men.</l>
+               <l>Then ſhall this fiſh ſwim ſooner upon land</l>
+               <l>Than I will diſobey thy juſt command.</l>
+               <l>Thus gracious God was pleas'd to hear him pray</l>
+               <l>In his quick Sepulchre, and the third day</l>
+               <pb n="13" facs="tcp:47368:7"/>
+               <l>Th' obedient Whale did ſtraight by Gods command</l>
+               <l>Caſt the converted Prophet on dry land.</l>
+               <l>This is all truth I ſpeak, though Heathen wits</l>
+               <l>Have laugh'd at this, with other holy Writs;</l>
+               <l>And ſo have thruſt amongſt the fabulous pack,</l>
+               <l>A falſe <hi>Arion</hi> on the Dolphins back.</l>
+               <l>So in mans reaſon what's not to command</l>
+               <l>They jeer, becauſe they cannot underſtand;</l>
+               <l>Nor will believe at all, though Sacred Writ</l>
+               <l>Do certifie at large the truth of it.</l>
+               <l>Nay, though it be the Figure of our Chriſt,</l>
+               <l>Yet they do what they can to have it hiſs'd.</l>
+               <l>For as he lay three days within a Whale,</l>
+               <l>So paſt the Son of Man through Earths black Jayl;</l>
+               <l>From whence returning Conqueror to the World,</l>
+               <l>Hell and the Grave he to confuſion hurl'd.</l>
+               <l>So when our Prophet was again reſtor'd</l>
+               <l>To th' open Air, he the great God ador'd,</l>
+               <l>And taught obedience by his ſo late fall,</l>
+               <l>Goes ſtraight to preach their ruine, One and All.</l>
+               <l>Bold <hi>Amithaides</hi> now does appear</l>
+               <l>Obedient to his God without all fear,</l>
+               <l>Remembring his paſt danger; and cries out,</l>
+               <l>You wretched people, that are drown'd throughout,</l>
+               <l>In Seas of ſins, and near a future fire,</l>
+               <l>Hear what I ſay, and ſo avoid Gods Ire.</l>
+               <l>Your horrid words, and your more impious deeds,</l>
+               <l>For which, though yours do not, my poor heart bleeds,</l>
+               <l>God hath beheld, that God who always pays</l>
+               <l>Offenders, and in equal ballance weighs.</l>
+               <l>So if he puniſh not with preſent pain,</l>
+               <l>Eternal torments ſinners ſhall remain;</l>
+               <l>Which are prepar'd for you without all end,</l>
+               <l>Unleſs you ſhall your ſelves and manners mend.</l>
+               <l>He therefore is ſo angry for your ſins,</l>
+               <l>By that the fortieth day from hence begins,</l>
+               <l>All ſhall be ſurely by ſad Fire deſtroy'd,</l>
+               <l>Unleſs his wrath by Pennance you avoid.</l>
+               <l>This when the Prophet ſpoke, an anxious fear</l>
+               <l>Struck every perſon that his words did hear,</l>
+               <pb n="15" facs="tcp:47368:8"/>
+               <l>And a ſad Horror ſeiz'd on all the Town,</l>
+               <l>The Swordmen well as thoſe that wore the Gown,</l>
+               <l>That now the day was come when all ſhould fall</l>
+               <l>By Fire from Heaven, in Pile Funeral.</l>
+               <l>All places now were fill'd with ſad complaint,</l>
+               <l>And he before was Devil now turns Saint.</l>
+               <l>All Quarters now were fill'd with grievous cries,</l>
+               <l>And ſighs of ſinners pierc'd the very skies.</l>
+               <l>The King who thought he did command the Globe,</l>
+               <l>Deſcends from Princely Throne, and Royal Robe,</l>
+               <l>And clad with Hair-cloth next his tender skin,</l>
+               <l>With Aſhes on that head, a Crown was in;</l>
+               <l>Commands a Faſt through all his People too,</l>
+               <l>And taught by his example what to do.</l>
+               <l>So in Proceſſion, and with one accord,</l>
+               <l>They humbly go about and ſeek the Lord.</l>
+               <l>And pray his Mercy to avert the pain</l>
+               <l>His Juſtice threatens, they'd deſerv'd again.</l>
+               <l>Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Almighty heard their cries and grievous groans,</l>
+               <l>And ſo was pleaſed too with their ſad moans,</l>
+               <l>That he remitted all their ſins, ſo loth</l>
+               <l>Is God to vengeance, and to ſhew his wrath.</l>
+               <l>As <hi>Jonas</hi> had performed Gods command,</l>
+               <l>Gets from the City far on a high land;</l>
+               <l>And to keep off the Sun, prepares a ſhade,</l>
+               <l>Deſirous for to ſee the end God made</l>
+               <l>With that rebellious and moſt ſinful City,</l>
+               <l>Which had not yet deſerv'd his Prayers, nor pity.</l>
+               <l>But when he found God did himſelf repent,</l>
+               <l>And from's intended puniſhment relent;</l>
+               <l>He grieves as much the clean contrary way,</l>
+               <l>To find from God his angry-Plagues delay.</l>
+               <l>Either for that he thought they ought to die</l>
+               <l>As wicked men, or that he ſeem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d to lie:</l>
+               <l>Therefore he chooſeth to embrace his death</l>
+               <l>Rather than length of a diſhonour'd breath.</l>
+               <l>Now was it neer the end of purple Spring,</l>
+               <l>And <hi>Ceres</hi> 'gan her Summer gifts to bring:</l>
+               <l>Now raging <hi>Syrius</hi> burnt the foaming fields,</l>
+               <l>And the poor Prophet to his fury yields.</l>
+               <pb n="17" facs="tcp:47368:9"/>
+               <l>For now he can no longer find the ſhade,</l>
+               <l>Which he well hop'd his hands had ſurely made:</l>
+               <l>So the divine dignation from above</l>
+               <l>Chaſeth the heat, and plants him in a Grove</l>
+               <l>Of green and growing Ivy, which imbrac'd</l>
+               <l>His ſhaded limbs, as by it they'd been lac'd:</l>
+               <l>So ſtarting up aloft unto the Sky,</l>
+               <l>Gave a delightful ſhade for him to ly.</l>
+               <l>Here <hi>Jonas</hi> joys do ſtrait begin again,</l>
+               <l>And hopes he ſhall be quit now of all pain.</l>
+               <l>But ſee how little are, and how unſure</l>
+               <l>The pleaſures that all mortals can procure!</l>
+               <l>Whilſt <hi>Jonas</hi> thought himſelf ſecure i'th' ſhade</l>
+               <l>Which by Gods will one ſingle night had made:</l>
+               <l>Behold God willing now, another night</l>
+               <l>A Worm deſtroys it and its umbrage quite:</l>
+               <l>It withers ſtraight, and falls, ſo <hi>Jonas</hi> joys</l>
+               <l>Are fled, and pleaſures turn'd to ſharp annoys.</l>
+               <l>So he grows angry, but Almighty God</l>
+               <l>Knowing himſelf the Author of that Rod,</l>
+               <l>Why <hi>Jonas<g ref="char:punc">▪</g>
+                  </hi> ſwith he<g ref="char:punc">▪</g> doth that give thee grief</l>
+               <l>To ſee that dry'd which gave before relief,</l>
+               <l>And that which only one night kindly gave,</l>
+               <l>Another dry and languiſhing would have?</l>
+               <l>Why ſhould not I then <hi>Nonive</hi> ſo ſpare</l>
+               <l>In which ſo many Souls of Mortals are,</l>
+               <l>And holds ſo many in its ſpacious walls,</l>
+               <l>As the fields graſs, Trees leaves before their falls;</l>
+               <l>Who all don't know yet what is wrong from right:</l>
+               <l>I love the ſimply good, but puniſh ſpite;</l>
+               <l>But they who with an humble heart do crave</l>
+               <l>My gracious pardon, their remiſſion have;</l>
+               <l>I always yield to Sinners gracious ears,</l>
+               <l>By hearty ſorrows they avoid all fears</l>
+               <l>Of my diſpleaſure, and from Heavens high vaults</l>
+               <l>Drops an Indulgence for all humanne faults.</l>
+               <l>So <hi>London</hi> like great <hi>Ninive</hi> appears,</l>
+               <l>Thrice happy <hi>Niobe</hi> turn'd ſtone with tears.</l>
+               <l>He ſaid, and ſo he did, and as to them,</l>
+               <l>So he's to us unwilling to condemn;</l>
+               <pb n="19" facs="tcp:47368:10"/>
+               <l>Therefore let us, who' of's glory careful are,</l>
+               <l>Approach his Sacred Preſence with this Prayer.</l>
+               <l>Almighty and great God, who mad'ſt us all,</l>
+               <l>Make us t' avoid that City's ſins and fall.</l>
+               <l>And though we do by heaping Crimes on Crimes,</l>
+               <l>Deſerve thy wrath ſhew'd in the worſt of Times,</l>
+               <l>Nay all the <hi>Phlegetons</hi> and <hi>Stygian</hi> Fire,</l>
+               <l>Which thou'ſt prepar'd for Sinners in thine Ire.</l>
+               <l>For who doth worſhip right thy holy Name?</l>
+               <l>Who keep's thy Word and Will with divine Flame?</l>
+               <l>Vain Superſtition, Frauds and wicked Luſt</l>
+               <l>With dirty Avarice, Ambition muſt</l>
+               <l>Reign or'e our Members, Virtues being ſuppreſt,</l>
+               <l>Or fled to Heaven there to take their reſt.</l>
+               <l>Oh they are fled away t' accuſe us there</l>
+               <l>Of our ungrateful ſins, and follies here;</l>
+               <l>So they cry down to us, Sinners repent,</l>
+               <l>And God from's Indignation will relent.</l>
+               <l>But thou, Great God, who know'ſt beſt how to ſpare,</l>
+               <l>And only chaſtneſt who obdurate are;</l>
+               <l>Us alſo who with ſuppliant voice require</l>
+               <l>Thy Grace, look on with pleas'd eyes and appeas'd Ire,</l>
+               <l>Remit the puniſhments we have deſerv'd,</l>
+               <l>By following Satan, and our fleſh ſo ſerv'd,</l>
+               <l>Send down thy Holy Spirit to our hearts,</l>
+               <l>Which may convert us Sinners in all parts.</l>
+               <l>Inflame our Souls to follow better things</l>
+               <l>Than thoſe which ſhew much Honey, but leave Stings,</l>
+               <l>So Thine, Thy Sons, and Holy Spirits breath,</l>
+               <l>Wee'l glorifie with Prayers until death.</l>
+            </lg>
+            <closer>Laus Chriſto Trino &amp; <g ref="char:V">Ʋ</g>ni Deo,</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
